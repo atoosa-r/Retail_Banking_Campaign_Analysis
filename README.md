@@ -1,9 +1,5 @@
 # 📊 Retail Banking Campaign Analysis
 
-**Author**: Atoosa Rashid  
-**Date**: January 2025  
-[LinkedIn](https://www.linkedin.com/in/atoosarashid/) | [GitHub](https://github.com/atoosa-r)
-
 ## Overview
 This project analyzes marketing campaign data from a Portuguese retail bank to understand customer behavior and identify key performance indicators. The objective is to explore patterns that influence client subscription to term deposits, and make data-driven recommendations for future campaigns.
 
