@@ -8,7 +8,7 @@ The dataset includes:
 - **Client Demographics**: Age, job, marital status, education, etc.
 - **Campaign Details**: Contact type, day/month, duration, etc.
 - **Economic Indicators**: Employment variation, consumer confidence, Euribor rate.
-
+  
 ## Project Structure
 ### Part 1: Exploratory Data Analysis (EDA)
 - Summary statistics on demographic, campaign, and economic attributes.
